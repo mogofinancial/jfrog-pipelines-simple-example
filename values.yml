@@ -1,3 +1,3 @@
 myRepo:
   gitProvider: github_mogo_devops_scm
-  path: jfrog/jfrog-pipelines-simple-example
+  path: mogofinancial/jfrog-pipelines-simple-example
